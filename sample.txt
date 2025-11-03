@@ -1,0 +1,4 @@
+Perplexity AI focuses on delivering fast, accurate, and citation-grounded answers. 
+As an APM, I care about product velocity and measurable user value. 
+This tool helps me compress interviews, PRDs, or meeting notes into crisp bullets.
+We can ship in constrained environments with offline logic to unblock teams.
